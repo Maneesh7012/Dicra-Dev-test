@@ -1,0 +1,62 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    overflow-x: hidden
+  }
+  .header {
+    background-color: #143461;
+    z-index: 998;
+    height: 4rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+  }
+  .topnav-left {
+    float: left;
+    margin-left: 22px;
+    display: block;
+    position: absolute
+  }
+  
+  .topnav-right {
+    float: right;
+    margin-right: 25px;
+    display: block
+  }
+  
+  .dicra {
+    position: relative;
+    text-align: left;
+    font-size: 26px;
+    margin-left: 60px;
+    color: #FFFFFF;
+    top: 0px;
+  }
+  
+  .heading {
+    position: relative;
+    text-align: left;
+    font-size: 10px;
+    margin-left: 60px;
+    color: #FFFFFF;
+    margin-top: -4px;
+  }
+ 
+  .col.undp-logo {
+    float: right;
+    padding: 0
+  }
+  
+  .undp-logo {
+    padding-left: 20px;
+    margin-top: 7px;
+    position: relative;
+    right: 17px;
+  }
+  
+  .telangana-logo {
+    margin-top: 7px;
+    position: relative;
+    right: 30px;
+  }
+  
